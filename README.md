@@ -1,5 +1,5 @@
 # RaZeR
 
-Coming soon!
+This repository contains the code implementation and evaluation for the paper [The Power of Negative Zero: Datatype Customization for Quantized Large Language Models](https://arxiv.org/abs/2501.04052)
 
-Leave a star or get in touch if you are interested in staying up to date.
+See individual folders for details.

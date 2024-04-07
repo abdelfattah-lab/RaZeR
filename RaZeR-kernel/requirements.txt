@@ -1,0 +1,5 @@
+torch==2.5.0
+transformers==4.45.2
+protobuf==5.29.1
+sentencepiece==0.2.0
+ninja==1.11.1.2

@@ -1,0 +1,1 @@
+MAX_JOBS=6 python setup.py build_ext --inplace
